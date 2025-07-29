@@ -139,7 +139,7 @@ aside:
     # Content(Invalid if style is 0)
     # 内容(Style 0 无效)
     content: 这是我的博客 # 这是我的博客 / This is my Blog
-    content2: 一个热爱生活的人 # 一个热爱生活的人 / A person who loves life
+    content2: ITXGO.COM # 一个热爱生活的人 / A person who loves life
     # Style 2 is invalid
     # Style 2 无效
     sayhello:
