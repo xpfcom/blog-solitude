@@ -20,8 +20,8 @@
 site:
   name:
     class: text # text / i_class / img
-    custom: Solitude # Solitude / fas fa-ghost / /img/pwa/favicon.ico
-  icon: https://pan.811520.xyz/2024-10/1728197294016.webp # Site icon / 网站图标
+    custom: x-Blog🍃 # Solitude / fas fa-ghost / /img/pwa/favicon.ico
+  icon: https://img.232355.xyz/itxgo/static/favicon.svg # Site icon / 网站图标
 # --------------------------- 网站信息 end ---------------------------
 
 # --------------------------- 导航栏 start ---------------------------
@@ -71,7 +71,7 @@ nav:
 hometop:
   enable: true
   banner:
-    title: 宁静致远 <br> 热爱生活 # Tranquility <br>and love life / 宁静致远 <br> 热爱生活 # Title
+    title: 记录成长轨迹 <br> 分享生活微光 # Tranquility <br>and love life / 记录成长轨迹 <br> 分享生活微光 # Title
     url: Hexo Theme Solitude
     icon:
       HTML: # name
@@ -132,7 +132,7 @@ aside:
   card:
     style: 0 # 0: default 1: style 1 2: style 2
     author:
-      img: https://pan.811520.xyz/2024-10/1728197294016.webp # url
+      img: https://img.232355.xyz/itxgo/static/favicon.svg # url
       sticker: # url, 24x24 size
     url: /about/ # link / 点击头像跳转链接
     background: # https://s3.qjqq.cn/47/663af296b85f4.webp!color # Background image(Invalid if style is 0)
